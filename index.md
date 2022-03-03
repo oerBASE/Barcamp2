@@ -16,11 +16,13 @@ Das Barcamp richtet sich an Admins und Manager_innen von OER-Repositorien, mit d
 22.04.2022
 
 ## Ort 
-[![Universität Graz](images/OSM-UG.png)](https://www.openstreetmap.org/#map=17/47.07699/15.44810)  
+[![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
 [Universität Graz](https://www.uni-graz.at/)
 
 ## Veranstalter
-Arbeitspaket 2 " Lokale Repositorien aufbauen und weiterenwickeln" des Projekts [Open Education Austria](https://www.openeducation.at/)
+Arbeitspaket 2 "Lokale Repositorien aufbauen und weiterenwickeln" des Projekts [Open Education Austria](https://www.openeducation.at/)
 
 ## Kontakt und Anmeldung
-via E-Mail
+[oer@uni-graz.at](mailto:oer@uni-graz.at)
+
+
