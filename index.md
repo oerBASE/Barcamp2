@@ -2,6 +2,8 @@
 layout: default
 ---
 # OER-Infrastruktur-Barcamp
+"Are we OER yet?"
+
 ### Veranstaltungsinfo
 Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
 
@@ -48,10 +50,11 @@ AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"
   
 Projektteam:   
 * Andreas Parschalk, BSc: Universität Innsbruck
-* Mag. Julia Schindler: Universität Innsbruck
+* Mag.a Julia Schindler: Universität Innsbruck
 * Ing. Markus Schmid, BSc, MSc: Universität Innsbruck
 * Mag. Dr. Michael Raunig: Universität Graz
-* Stephan Lorbek, BSc: Universität Graz
+* Heimo Divis: Universität Graz
+* Christoph Ladurner, BSc: Technische Universität Graz 
   
 ### Kontakt und Anmeldung
 Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input   
