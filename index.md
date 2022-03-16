@@ -49,12 +49,12 @@ AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"
 
   
 Projektteam:   
-* Andreas Parschalk, BSc: Universität Innsbruck
-* Mag.a Julia Schindler: Universität Innsbruck
-* Ing. Markus Schmid, BSc, MSc: Universität Innsbruck
-* Mag. Dr. Michael Raunig: Universität Graz
+* Andreas Parschalk: Universität Innsbruck
+* Julia Schindler: Universität Innsbruck
+* Markus Schmid: Universität Innsbruck
+* Michael Raunig: Universität Graz
 * Heimo Divis: Universität Graz
-* Christoph Ladurner, BSc: Technische Universität Graz 
+* Christoph Ladurner: Technische Universität Graz 
   
 ### Kontakt und Anmeldung
 Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input   
