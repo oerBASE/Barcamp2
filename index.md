@@ -28,7 +28,7 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 
 * * *
 ### Wann
-<p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat22.April.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-04-22T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
+<p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat5.Juli.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-07-05T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
 
 Zeitraum: 9:00 - 16:00
 
