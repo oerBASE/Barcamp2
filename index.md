@@ -19,11 +19,11 @@ Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegense
 Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
 
 ### Die Regeln
-* Die oberste Regel des BarCamps lautet "Rede über das BarCamp" Erzählen Sie auf allen Kanälen (persönlich, Twitter, Facebook,  Instagram, Blog, usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
-* Nutzen Sie #oer_barcamp
-* Es kommen die Teilnehmerinnen und Teilnehmer zu Wort -Jede Teilnehmerin, jeder Teilnehmer ist aktiv beteiligt.
+* Die oberste Regel des Barcamps lautet: "Rede über das Barcamp!" Erzählen Sie auf allen Kanälen (persönlich, Twitter, Facebook, Instagram, Blog usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
+* Nutzen Sie #oerinfra!
+* Es kommen die Teilnehmer_innen zu Wort - jede_r Teilnehmer_in ist aktiv beteiligt.
 * Wer etwas beitragen möchte, meldet die Session zu Beginn der Veranstaltung an, der Ablauf (Sessionfolge) wird am Beginn der Veranstaltung festgelegt.
-* Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange wie sie dauert oder bis eine neue Session beginnt.   
+* Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange, wie sie dauert oder bis eine neue Session beginnt.   
 
 
 * * *
@@ -56,5 +56,5 @@ Projektteam:
 * Christoph Ladurner: Technische Universität Graz 
   
 ### Kontakt und Anmeldung
-Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input   
+Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input!   
 [oer@uni-graz.at](mailto:oer@uni-graz.at)
