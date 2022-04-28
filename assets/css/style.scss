@@ -4,6 +4,7 @@ $section-headings-color: #003a61 !default;
 $header-bg-color: #789213 !default;
 $header-bg-color-secondary: #582212 !default;
 a,h3 {
-  color: #003a61;
+ color:#860052 !important;
+ font-weight: bold !important
 }
 @import "{{ site.theme }}";
