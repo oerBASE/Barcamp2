@@ -1,2 +1,2 @@
-# Seite für das OER-Infrastruktur-Barcamp am 22.04.2022
-in Arbeit!
+# Seite für das OER-Infrastruktur-Barcamp am 05.07.2022
+
