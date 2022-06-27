@@ -32,7 +32,16 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 ### Wann
 <p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat5.Juli.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-07-05T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
 
-Zeitraum: 10:00 - 16:00
+### Zeitplan
+
+10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung  
+11:00-11:45 Sessions #1  
+12:00-12:45 Sessions #2  
+12:45-13:30 Mittagspause  
+13:30-14:15 Sessions #3  
+14:30-15:15 Sessions #4  
+15:30-16:00 Zusammenfassung und Abschluss  
+
 
 ### Wo
 [Universität Graz](https://www.uni-graz.at/)  
