@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>oerinfra1-1</title>
+<meta name="generator" content="Etherpad">
+<meta name="author" content="Etherpad">
+<meta name="changedby" content="Etherpad">
+<meta charset="utf-8">
+<style>
+ol {
+  counter-reset: item;
+}
+
+ol > li {
+  counter-increment: item;
+}
+
+ol ol > li {
+  display: block;
+}
+
+ol > li {
+  display: block;
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+}
+
+ol ol > li:before {
+  content: counters(item, ".") ". ";
+  margin-left: -20px;
+}
+
+ul.indent {
+  list-style-type: none;
+}
+
+img{max-width:100%}h1{font-size: 2.5em;}
+h2{font-size: 1.8em;}
+h3{font-size: 1.5em;}
+h4{font-size: 1.2em;}
+code{font-family: RobotoMono;}
+
+</style>
+</head>
+<body>
+<h1>Dokumentation Session 1-1</h1><br><h3>11:00-11:45 --- Raum 44.21</h3><br><br><br>Problemstellung<br><br>Wie sieht ein m&#246;glicher Import-Workflow in das Repository f&#252;r externe Resourcen (Metadaten, keine Daten) aus. Das Problem wird am Beispiel von Videos, die auf der TU Graz Instanz von Opencast genannt Tube gehostet werden, diskutiert.<br><br>Ausgangslage<br><br>F&#252;r den Import von Daten und Metadaten (Oberbegriff Record) wurden f&#252;r das&nbsp; Learning Management System (LMS) der TU Graz ein Plugin geschrieben (OER-Moodle-Plugin), das es erm&#246;glicht die OER-Records mit Metadaten anzureichern. Das LMS bietet ein Plugin an, um Videos &#252;ber das LMS in die Videoplattform Tube zu importieren. Die Records m&#252;ssen gewisse Metadaten Felder zingend beeinhalten zb.: &#214;fos (Wissenschaftliche Klassifikation), Titel, Autor, Lizenz, Sprache.<br><br>Wunsch<br><br>Der Workflow sollte nicht nur f&#252;r die TU Graz implementiert werden, sondern auch von anderen Universit&#228;ten genutzt werden k&#246;nnen. Da wir im OEAA Projekt mehrere Partner sind, die eine Videplattform betreiben und ebenfalls ein Repository betreiben oder in Betrieb nehmen ist es sinnvoll eine L&#246;sung zu finden, die es erm&#246;glicht den Workflow und auch den Code wiederzuverwenden.<br><br>Diskussion<br><br>Was kann die OAI-PMH Schnittstelle von Opencast? Sie kann Sets liefern. Es kann ein Set erstellt werden, welches nur offen lizenzierte Records liefert (&#252;ber OAI-PMH werden nur Metadaten geliefert, was in diesem Falle auch gewollt ist)<br><br>Es besteht der Wunsch Metadaten Felder als zwingend vorhanden zu setzen. Dies h&#228;tte den Vorteil, dass die Metadaten beim import in das Repository in einem sauberen und sch&#246;nen Zustand sind. Weiters w&#252;rde es ohne weitere Kuratierung m&#246;glich sein, sie an den OERhub weiterzuleiten. Dabei wurde diskutiert ob es ein User Interface geben kann bzw gibt, welches das in Opencast direkt m&#246;glich macht. Weiters wurde angef&#252;hrt, dass zwingend erforderliche Metadaten auch &#252;ber eine Best Practice oder Policy genannte weise erzwungen werden k&#246;nnten. Das wurde kontrovers diskutiert. Es besteht nicht so viel vertrauen in solchen L&#246;sungen, da sie in der Eile der allt&#228;glichen Pflichten leicht &#252;bergangen werden k&#246;nnen.<br><br>Es wurde diskutiert inwieweit sich die Metadaten in Opencast erweitern lassen. Es wurde dabei das Szenario durchgespielt, dass in ein oder zwei Jahren weitere Klassifikationen hinzukommen und diese auch auf zwingend vorhanden gesetzt werden k&#246;nnen.<br><br>Es wurden von verschiedenen Universit&#228;ten verschiedene Workflows skizziert, wie die Videos + Metadaten in das System gelangen. Dies und der Aufwand ein externes User Interface zu programmieren welches wieder nur f&#252;r die TU Graz von nutzen ist, f&#252;hrte dazu, dass f&#252;r die TU Graz klar wurde, dass die Metadaten der Videos wohl im OER-Moodle-Plugin verwaltet werden w&#252;rden. Allerdings werden die Metadaten auch in Opencast abgespeichert werden, der Vollst&#228;ndigkeit halber.<br><br>Result<br><br>Die TU Graz wird sich einen OER-Moodle-Plugin zentralisierten Workflow &#252;berlegen. Das bedeutet, dass die bereits vorhande OER-Publizierungsinfrastruktur genutzt wird.<br><br>
+</body>
+</html>

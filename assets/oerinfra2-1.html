@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>oerinfra2-1</title>
+<meta name="generator" content="Etherpad">
+<meta name="author" content="Etherpad">
+<meta name="changedby" content="Etherpad">
+<meta charset="utf-8">
+<style>
+ol {
+  counter-reset: item;
+}
+
+ol > li {
+  counter-increment: item;
+}
+
+ol ol > li {
+  display: block;
+}
+
+ol > li {
+  display: block;
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+}
+
+ol ol > li:before {
+  content: counters(item, ".") ". ";
+  margin-left: -20px;
+}
+
+ul.indent {
+  list-style-type: none;
+}
+
+img{max-width:100%}h1{font-size: 2.5em;}
+h2{font-size: 1.8em;}
+h3{font-size: 1.5em;}
+h4{font-size: 1.2em;}
+code{font-family: RobotoMono;}
+
+</style>
+</head>
+<body>
+<h1>Dokumentation Session 2-1</h1><br><h3>12:00-12:45 --- Raum 44.21</h3><br><br><strong>Repositorien, Software, technisches Setup</strong><br><br>Begriffe:<br>&nbsp;&nbsp;&nbsp; LZA - Langzeitarchivierung<br>&nbsp;&nbsp;&nbsp; UW - Uni Wien<br>&nbsp;&nbsp;&nbsp; OER - Open Educational Resource<br>&nbsp;&nbsp;&nbsp; RDM - Research Data Management&nbsp;<br>&nbsp;&nbsp;&nbsp; VZ - Vollzeit<br>&nbsp;&nbsp;&nbsp; UIBK - Uni Innsbruck<br>&nbsp;&nbsp;&nbsp; DMS - Datenmanagementservice&nbsp;<br><br>Existierende L&#246;sungen an den Instutitonen: EduSharing (Alfresco als Kern [1]), OpenCast, PHAIDRA (Fedora als Kern), inVenio RDM<br><br>[1] EduSharing praktisch Alfresco mit einem Frontend; UIBK verwenden Alfresco f&#252;r EduSharing aber auch als eigenes DMS (unabh&#228;ngig davon); man kann keine bestehende Alfresco Instanz nehmen und das zum Repo &quot;dazu geben&quot;, sondern man braucht eine eigene Instanz&nbsp;<br><br>GRUNDSATZFRAGE:&nbsp;<br>Was ist ein OER-Repo? Braucht man das (f&#252;r die eigene Institution)?&nbsp;<br><br>Grundlegende Fragen:<br>* Braucht man &#252;berhaupt ein Repo (f&#252;r die jeweiligen Ressourcen)<br>* Ob eine Institution eigene Ressourcen hat, um ein Repo aufzusetzen, oder ob sie eine fertige (maintained) L&#246;sung brauchen; auch wenn es Unterst&#252;tzung durch eine Firma (Metaventis) oder Community gibt, gibt es einen Entwicklungsaufwand auf der eigenen Institution (Schnittstellen, etc.)&nbsp;<br>* Welche Art von Daten hat man? Was ist die Zielsetzung vom Repo? (Was soll mit den Daten passieren?) Welche institutionelle M&#246;glichkeiten habe ich? (z. B.: Wenn man z. B. wei&#223;, dass 90% der Daten Videos sind, sollte man eine entsprechende, spezialisierte L&#246;sung w&#228;hlen (die auch Streaming erm&#246;glichen, etc.).)<br>* Wo liegen die Daten? Ist ein DMS angebunden?&nbsp;<br>* Wird Change von der Institution mitgetragen (--&gt; Einf&#252;hrung eines Repos sei eine Organisations&#228;nderung! Damit gehen auch personelle Ver&#228;nderungen einher)? (Sonst wird es ressourcentechnisch schwierig)<br>* Kann man den Bedarf nicht mit einem institutionellen Repo abdecken? (in bestehende Infrastrukturen mitnehmen)<br>* Welche Erwartungen habe ich an das Repr&#228;sentationsschicht (PHAIDRA setzt das sehr stark in den Hintergrund; Lageerhaltung von digitalen Objekten, daf&#252;r kann man Applikationen auf das Repo &quot;drauf setzen&quot;)&nbsp;<br>* Soll langfristig aufbewahrt werden? Was soll langfristig aufbewahrt werden (z. B. sollen Moodle Kurse langfristig aufbewahrt werden?)&nbsp;<br>* Wie sollen Ressourcen nach Au&#223;en pr&#228;sentiert werden?<br><br>Weiterf&#252;hrende Fragen (z. T. auch Workflow-bedingt):&nbsp;<br>* Welches Metadatenschema?&nbsp;<br>* Sollen Objekte &quot;geschlossen&quot; werden k&#246;nnen? (z.&nbsp; B. Embargo-Periode)<br>* Qualit&#228;tskontrollen?<br>* Zugangsbeschr&#228;nkungen?<br>* In welchen File Formaten soll archiviert werden, damit LZA (Langzeitarchivierung) garantiert werden kann?<br>&nbsp;&nbsp;&nbsp;&nbsp;<br>PHAIDRA: UniWien entwickelt selbst (somit gr&#246;&#223;ere Freiheit), PHAIDRA besteht schon l&#228;nger, daher hat die Uni auch schon etablierte Ressourcen (2 VZ-Kr&#228;fte aktuell); 2007: Bedarf an einem System f&#252;r die LZA von digitalen Objekten wird erkannt (d. h. damals wurde noch nicht in spezifischen Ressourcen (OER, Forschungsdaten, Publikationen, etc.) gedacht); Fedora als Kern, PHAIDRA drauf; PHAIDRA ist auch Open Source (!), aber genauso wie EduSharing oder Goobi (d. h. &quot;alleine&quot; kann man das nicht betreiben&#x2F;aufsetzen). Code tlws. auf GitHub und tlws. intern (the work in progress part); am besten sich mit den zust&#228;ndigen Kollegen an der UW in Verbindung setzen.<br>UW hat einige Hosting-L&#246;sungen f&#252;r Organisationen in &#214;sterreich (Kunstunis, FH St. P&#246;lten, LandesBib Vorarlberg); UW kann das weiterhin auch machen, muss aber langsam aufpassen, dass sie sich nicht selbst &#252;bernehmen (weil sonst der Service darunter leidet); PHAIDRA&#x2F;UW arbeitet nicht marktorientiert&nbsp;<br><br>Uni Klagenfurt: EduSharing Contra (Anm.: sie haben ein Repo f&#252;r ein Projekt gebraucht): es braucht daf&#252;r eine Person an der eigenen Institution, der daf&#252;r zust&#228;ndig ist und das maintained (Konfiguration, Sonderw&#252;nsche, etc.); Uni hat das noch nicht ganz am Schirm, das ein Repo gebraucht wird (?); haben jetzt einen Hash-basierten Fileserver; machen Moodle-Kurse aus ihren Lernobjekten (?)&nbsp;<br><br>Frage: wie hoch ist der administrative Aufwand sch&#228;tzungsweise? (5-stellige Summe mit kompletter (?) Auslagerung (ink. Betrieb) (Bsp. EduSharing UIBK) (inkl. Alfresco Cluster, rendering service, ElasticSearch, HAProxy, Wartung, etc.))&nbsp;<br><br>UIBK: EduSharing sei gar nicht so billig; personalweise braucht man ca. 2 Leute, die sich bei Bedarf administrativ um das System k&#252;mmern k&#246;nnen; dann braucht man jemanden f&#252;r User Support (abh&#228;ngig vom Workflow - wer l&#228;dt die Daten hoch? werden die Daten kuratiert?); involvement vom Betriebsrat<br><br>PHAIDRA-Partner: schnellsten Partner*innen brauchten ein halbes Jahr, manche aber 3 Jahre! (variiert sehr)<br><br>Frage, ob sowas, wie Moodle (vom Reifegrad her) als Auswahl gibt zum Aufsetzen --&gt; ja, klassische, standard Repos (z. B. cken; aber auch ein paar Fedora-basierte: alidrora (???))&nbsp;<br><br>P&#228;dagogische Hochschulen haben einen Auftrag vom Ministerium bekommen, dass sie die OER-Produktion starten m&#252;ssen; leider hat es sich so ergeben, dass jede Hochschule eine eigene L&#246;sung umsetzt&nbsp;<br><br>Frage: Warum es keine &#214;sterreich-&#252;bergreifende L&#246;sung gibt (eine zentrale)? &lt;-- dass es das nicht gibt, ist strukturell bedingt (tlws.)&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
