@@ -4,6 +4,8 @@ layout: default
 # OER-Infrastruktur-Barcamp #oerinfra
 "Are we OER yet?"
 
+[Link zur Veranstaltungseinladung](./invite.html).
+
 ### Veranstaltungsinfo
 Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
 
