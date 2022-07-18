@@ -28,21 +28,21 @@ Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit 
 ### Sessionplan & Doku: 
 ![OER-Infrastruktur-Barcamp-Sessionplan](images/sessionlist.jpg)
 
-* 11:00-12:00 --- Raum 44.21 - [https://pad.uni-graz.at/p/oerinfra1-1](./assets/oerinfra1-1.html)   
-Externe Ressourcen in Repositorien (Opencast
-* 11:00-12:00 --- Raum 44.22 - [https://pad.uni-graz.at/p/oerinfra1-2](./assets/oerinfra1-2.html)  
+* 11:00-12:00 --- Raum 44.21 - [Session 1-1](./assets/oerinfra1-1.html)   
+Externe Ressourcen in Repositorien (Opencast)
+* 11:00-12:00 --- Raum 44.22 - [Session 1-2](./assets/oerinfra1-2.html)  
 OER Produktion
-* 12:00-13:00 --- Raum 44.21 - [https://pad.uni-graz.at/p/oerinfra2-1](./assets/oerinfra2-1.html)  
+* 12:00-13:00 --- Raum 44.21 - [Session -1](./assets/oerinfra2-1.html)  
 Technische Umsetzung von Repositorien, Software im Vergleich
-* 12:00-13:00 --- Raum 44.22 - [https://pad.uni-graz.at/p/oerinfra2-2](./assets/oerinfra2-2.html)  
+* 12:00-13:00 --- Raum 44.22 - [Session 2-2](./assets/oerinfra2-2.html)  
 Modulare Gestaltung von Lernmaterial 
-* 13:30-14:30 --- Raum 44.21 --- [https://pad.uni-graz.at/p/oerinfra3-1](./assets/oerinfra3-1.html)  
+* 13:30-14:30 --- Raum 44.21 --- [Session 3-1](./assets/oerinfra3-1.html)  
 Mehrsprachige Metadaten (im OERhub) 
-* 13:30-14:30 --- Raum 44.22 --- [https://pad.uni-graz.at/p/oerinfra3-2](./assets/oerinfra3-2.html)  
+* 13:30-14:30 --- Raum 44.22 --- [Session 3-2](./assets/oerinfra3-2.html)  
 Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren? 
-* 14:30-15:30 --- Raum 44.21 --- [https://pad.uni-graz.at/p/oerinfra4-1](./assets/oerinfra4-1.html)  
+* 14:30-15:30 --- Raum 44.21 --- [Session 4-1](./assets/oerinfra4-1.html)  
 Persistent IDs und Kontrollierte Vocabularies, #metadatalove
-* 14:30-15:30 --- Raum 44.22 --- [https://pad.uni-graz.at/p/oerinfra4-2](./assets/oerinfra4-2.html)  
+* 14:30-15:30 --- Raum 44.22 --- [Session 4-2](./assets/oerinfra4-2.html)  
 Nutzungsbedingungen #rechtundordnung 
 
 ### Und weiter? 
