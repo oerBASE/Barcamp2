@@ -6,68 +6,44 @@ layout: default
 
 [Link zur Veranstaltungseinladung](./invite.html).
 
+Am 5.7. fand an der Universität Graz das OER-Infrastruktur Barcamp statt. Hier finden Sie die Dokumentation
+
+![OER-Infrastruktur-Barcamp-Tagcloud](images/tagcloud.jpg)
+
+Das Barcamp Anfang Juli wurde von fast 30 Teilgeber:innen gestaltet -  Organisator:innen, Session-Leiter:innen und Mitdisktutant:innen. Die eingebrachten Themen reichten von technischen über inhaltliche bis zu organisatorischen Fragestellungen. 
+
+![OER-Infrastruktur-Foto1](images/P1002398.JPG)
+![OER-Infrastruktur-Foto2](images/oer1002449.JPG)
+
 ### Veranstaltungsinfo
-Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
+*Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?
+*Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?
+*Sind die derzeitigen Bestrebungen auf dem richtigen Weg?
+*Und wenn ja: ist es noch weit?
 
-Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?    
+## Repos & Co: 
+Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit publiziert und im Netz sichtbar gemacht werden können: 
+[https://pad.uni-graz.at/p/oerinfra-intro](https://pad.uni-graz.at/p/oerinfra-intro).
 
-Sind die derzeitigen Bestrebungen auf dem richtigen Weg?     
-Und wenn ja: ist es noch weit? 
+### Sessionplan & Doku: 
+![OER-Infrastruktur-Barcamp-Sessionplan](images/sessionlist.jpg)
 
-### Ziel der Veranstaltung
-Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegenseitig Einblick in aktuelle Infrastrukturprojekte ermöglichen und gemeinsam Fragen und Visionen diskutieren, die die technische und organisatorische Bereitstellung von OER betreffen. 
+11:00-12:00 --- Raum 44.21 - [https://pad.uni-graz.at/p/oerinfra1-1](https://pad.uni-graz.at/p/oerinfra1-1) : 
+Externe Ressourcen in Repositorien (Opencast
+11:00-12:00 --- Raum 44.22 - [https://pad.uni-graz.at/p/oerinfra1-2](https://pad.uni-graz.at/p/oerinfra1-2) : 
+OER Produktion
+12:00-13:00 --- Raum 44.21 - [https://pad.uni-graz.at/p/oerinfra2-1](https://pad.uni-graz.at/p/oerinfra2-1) : 
+Technische Umsetzung von Repositorien, Software im Vergleich
+12:00-13:00 --- Raum 44.22 - [https://pad.uni-graz.at/p/oerinfra2-2](https://pad.uni-graz.at/p/oerinfra2-2) : 
+Modulare Gestaltung von Lernmaterial 
+13:30-14:30 --- Raum 44.21 --- [https://pad.uni-graz.at/p/oerinfra3-1](https://pad.uni-graz.at/p/oerinfra3-1) :
+Mehrsprachige Metadaten (im OERhub) 
+13:30-14:30 --- Raum 44.22 --- [https://pad.uni-graz.at/p/oerinfra3-2](https://pad.uni-graz.at/p/oerinfra3-2) : 
+Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren? 
+14:30-15:30 --- Raum 44.21 --- [https://pad.uni-graz.at/p/oerinfra4-1](https://pad.uni-graz.at/p/oerinfra4-1) : 
+Persistent IDs und Kontrollierte Vocabularies, #metadatalove
+14:30-15:30 --- Raum 44.22 --- [https://pad.uni-graz.at/p/oerinfra4-2](https://pad.uni-graz.at/p/oerinfra4-2) 
+Nutzungsbedingungen #rechtundordnung 
 
-![Humboldtstr. 48, 8010 Graz](images/OER@ZMB.png)
-
-### Zielgruppe
-Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
-
-### Die Regeln
-* Die oberste Regel des Barcamps lautet: "Rede über das Barcamp!" Erzählen Sie auf allen Kanälen (persönlich, Twitter, Facebook, Instagram, Blog usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
-* Nutzen Sie #oerinfra!
-* Es kommen die Teilnehmer_innen zu Wort - jede_r Teilnehmer_in ist aktiv beteiligt.
-* Wer etwas beitragen möchte, meldet die Session zu Beginn der Veranstaltung an, der Ablauf (Sessionfolge) wird am Beginn der Veranstaltung festgelegt.
-* Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange, wie sie dauert oder bis eine neue Session beginnt.   
-
-
-* * *
-### Wann
-<p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat5.Juli.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-07-05T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
-
-### Zeitplan
-
-10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung  
-11:00-11:45 Sessions #1  
-12:00-12:45 Sessions #2  
-12:45-13:30 Mittagspause  
-13:30-14:15 Sessions #3  
-14:30-15:15 Sessions #4  
-15:30-16:00 Zusammenfassung und Abschluss  
-
-
-### Wo
-[Universität Graz](https://www.uni-graz.at/)  
-Humboldtstr. 48, 8010 Graz ("ZMB Ex-Usu-Gebäude")  
-
-[![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
-
-
-### Veranstalter
-
-Projekt Open Education Austria     
-AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"     
-
-[Open Education Austria](https://www.openeducation.at/)  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).  
-
-  
-Projektteam:   
-* Andreas Parschalk: Universität Innsbruck
-* Julia Schindler: Universität Innsbruck
-* Markus Schmid: Universität Innsbruck
-* Michael Raunig: Universität Graz
-* Heimo Divis: Universität Graz
-* Christoph Ladurner: Technische Universität Graz 
-  
-### Kontakt und Anmeldung
-Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input!   
-[oer@uni-graz.at](mailto:oer@uni-graz.at)
+### Und weiter? 
+Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) existiert eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at).
