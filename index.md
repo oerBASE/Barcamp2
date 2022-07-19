@@ -4,22 +4,24 @@ layout: default
 # OER-Infrastruktur-Barcamp #oerinfra
 "Are we OER yet?"
 
-[Link zur Veranstaltungseinladung](./invite.html).
-
-Am 5.7. fand an der Universität Graz das OER-Infrastruktur Barcamp statt. Hier finden Sie die Dokumentation
-
-![OER-Infrastruktur-Barcamp-Tagcloud](images/tagcloud.jpg)
-
-Das Barcamp Anfang Juli wurde von fast 30 Teilgeber:innen gestaltet -  Organisator:innen, Session-Leiter:innen und Mitdisktutant:innen. Die eingebrachten Themen reichten von technischen über inhaltliche bis zu organisatorischen Fragestellungen. 
-
-![OER-Infrastruktur-Foto1](images/P1002398.JPG)
-![OER-Infrastruktur-Foto2](images/oer1002449.JPG)
 
 ### Veranstaltungsinfo
 * Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?
 * Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?
 * Sind die derzeitigen Bestrebungen auf dem richtigen Weg?
 * Und wenn ja: ist es noch weit?
+
+
+[Link zur Veranstaltungseinladung](./invite.html).
+
+Am 5.7. fand an der Universität Graz das OER-Infrastruktur Barcamp statt. Hier finden Sie nun die Dokumentation der Sessions. 
+
+![OER-Infrastruktur-Barcamp-Tagcloud](images/tagcloud.jpg)
+
+Das Barcamp wurde von fast 30 Teilgeber:innen gestaltet -  Organisator:innen, Session-Leiter:innen und Mitdisktutant:innen. Die eingebrachten Themen reichten von technischen über inhaltliche bis zu organisatorischen Fragestellungen. 
+
+![OER-Infrastruktur-Foto1](images/P1002398.JPG)
+![OER-Infrastruktur-Foto2](images/oer1002449.JPG)
 
 ### Repos & Co: 
 Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit publiziert und im Netz sichtbar gemacht werden können: 
