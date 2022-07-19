@@ -32,7 +32,7 @@ Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit 
 Externe Ressourcen in Repositorien (Opencast)
 * 11:00-12:00 --- Raum 44.22 - [Session 1-2](./assets/oerinfra1-2.html)  
 OER Produktion
-* 12:00-13:00 --- Raum 44.21 - [Session -1](./assets/oerinfra2-1.html)  
+* 12:00-13:00 --- Raum 44.21 - [Session 2-1](./assets/oerinfra2-1.html)  
 Technische Umsetzung von Repositorien, Software im Vergleich
 * 12:00-13:00 --- Raum 44.22 - [Session 2-2](./assets/oerinfra2-2.html)  
 Modulare Gestaltung von Lernmaterial 
