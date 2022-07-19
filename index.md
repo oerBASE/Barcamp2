@@ -48,4 +48,4 @@ Persistent IDs und Kontrollierte Vocabularies, #metadatalove
 Nutzungsbedingungen #rechtundordnung 
 
 ### Und weiter? 
-Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) existiert eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at).
+Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) wird eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at) eingerichtet. Bei Interesse bitte um Kontaktaufnahme. 
