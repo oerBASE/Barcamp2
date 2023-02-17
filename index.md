@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# OER-Infrastruktur-Barcamp #oerfuture
+# zweites OER-Infrastruktur-Barcamp #oerfuture
 "whatever works"
 
 
