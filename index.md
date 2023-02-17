@@ -11,6 +11,7 @@ Im Juli des Vorjahres fand an der Universität Graz das erste Barcamp zur Infras
 * Was gibt es Neues in der OER-Infrastrukturlandschaft?
 * Welche Einsichten und Ergebnisse kann man aus den bisherigen Erfahrungen ableiten?
 * Welche Strategien und Tendenzen zeichnen sich für die Zukunft der OER-Infrastruktur an unseren Hochschulen ab?
+* Welche neuen Formate und Technologien werden in Zukunft bei der Erstellung und Nutzung von OER eine Rolle spielen und wie können diese in der bestehenden technischen und organisatorischen Infrastruktur abgebildet werden?  
 * Welche Strategien verfolgen die anderen DACH-Länder und die Europäische Union? 
 * Wie geht es nach Open Education Austria Advanced weiter?
 
