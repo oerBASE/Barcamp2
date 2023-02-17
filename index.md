@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# OER-Infrastruktur-Barcamp #oerinfra
-"Are we OER yet?"
+# OER-Infrastruktur-Barcamp #oerfuture
+"whatever works"
 
 
 ### Veranstaltungsinfo
