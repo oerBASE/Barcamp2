@@ -75,7 +75,6 @@ Projektteams:
 Team lokale Repositorien: 
 * Andreas Parschalk: Universität Innsbruck
 * Julia Schindler: Universität Innsbruck
-* Markus Schmid: Universität Innsbruck
 * Michael Raunig: Universität Graz
 * Heimo Divis: Universität Graz
 * Christoph Ladurner: Technische Universität Graz
