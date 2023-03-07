@@ -80,8 +80,9 @@ Team lokale Repositorien:
 * Christoph Ladurner: Technische Universität Graz
 
 Team nationaler Aggregator: 
+* Raman Ganguly: Universität Wien
 * Eva Gergely: Universität Wien
-* Raman Ganguly: Universität Wien 
+* Peter Toth: Universität Wien
 
 ### Und weiter? 
 Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) besteht eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at). Bei Interesse bitte um Kontaktaufnahme. 
