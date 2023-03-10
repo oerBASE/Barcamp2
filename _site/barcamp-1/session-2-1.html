@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+
+  <!--TODO-->
+  <meta name="author" content="">
+  <meta name="generator" content="Jekyll">
+  <meta name="description" content="">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/rough-notation/lib/rough-notation.iife.js"></script>
+  <script src="/assets/js/index.js"></script>
+</head>
+<body>
+    <div class="col-lg-8 mx-auto p-4 py-md-5"><header id="oer-header" class="d-flex align-items-center pb-3 mb-5 border-bottom">
+  <a id="oer-header-menu" class="d-flex align-items-center text-dark text-decoration-none">
+    <span class="fs-4">OER-Infrastruktur-Barcamp</span>
+  </a>
+
+  <ul id="oer-past-barcamps" class="nav nav-pills">
+    <li class="nav-item active">
+      <a class="nav-link" aria-current="page" href="/">Home</a>
+    </li>
+  
+  
+    <li class="nav-item active">
+      <a class="nav-link" aria-current="page" href="/barcamp-1/">Barcamp #1</a>
+    </li>
+  
+  </ul>
+</header>
+<main>
+        <h1>Dokumentation Session 2-1</h1>
+        <p class="fs-5 col-md-8">11:00-11:45 - Raum 44.21</p>
+
+        <hr class="col-3 col-md-2 mb-5">
+
+        <h4 id="repositorien-software-technisches-setup">Repositorien, Software, technisches Setup</h4>
+
+<p><strong>Begriffe:</strong></p>
+<ul>
+  <li>LZA - Langzeitarchivierung</li>
+  <li>UW - Uni Wien</li>
+  <li>OER - Open Educational Resource</li>
+  <li>RDM - Research Data Management</li>
+  <li>VZ - Vollzeit</li>
+  <li>UIBK - Uni Innsbruck</li>
+  <li>DMS - Datenmanagementservice</li>
+</ul>
+
+<p>Existierende Lösungen an den Instutitonen: EduSharing (Alfresco als Kern [1]), OpenCast, PHAIDRA (Fedora als Kern), inVenio RDM</p>
+
+<p>[1] EduSharing praktisch Alfresco mit einem Frontend; UIBK verwenden Alfresco für EduSharing aber auch als eigenes DMS (unabhängig davon); man kann keine bestehende Alfresco Instanz nehmen und das zum Repo “dazu geben”, sondern man braucht eine eigene Instanz</p>
+
+<p><strong>GRUNDSATZFRAGE:</strong><br />
+Was ist ein OER-Repo? Braucht man das (für die eigene Institution)?</p>
+
+<p><strong>Grundlegende Fragen:</strong></p>
+<ul>
+  <li>Braucht man überhaupt ein Repo (für die jeweiligen Ressourcen)</li>
+  <li>Ob eine Institution eigene Ressourcen hat, um ein Repo aufzusetzen, oder ob sie eine fertige (maintained) Lösung brauchen; auch wenn es Unterstützung durch eine Firma (Metaventis) oder Community gibt, gibt es einen Entwicklungsaufwand auf der eigenen Institution (Schnittstellen, etc.)</li>
+  <li>Welche Art von Daten hat man? Was ist die Zielsetzung vom Repo? (Was soll mit den Daten passieren?) Welche institutionelle Möglichkeiten habe ich? (z. B.: Wenn man z. B. weiß, dass 90% der Daten Videos sind, sollte man eine entsprechende, spezialisierte Lösung wählen (die auch Streaming ermöglichen, etc.).)</li>
+  <li>Wo liegen die Daten? Ist ein DMS angebunden?</li>
+  <li>Wird Change von der Institution mitgetragen (–&gt; Einführung eines Repos sei eine Organisationsänderung! Damit gehen auch personelle Veränderungen einher)? (Sonst wird es ressourcentechnisch schwierig)</li>
+  <li>Kann man den Bedarf nicht mit einem institutionellen Repo abdecken? (in bestehende Infrastrukturen mitnehmen)</li>
+  <li>Welche Erwartungen habe ich an das Repräsentationsschicht (PHAIDRA setzt das sehr stark in den Hintergrund; Lageerhaltung von digitalen Objekten, dafür kann man Applikationen auf das Repo “drauf setzen”)</li>
+  <li>Soll langfristig aufbewahrt werden? Was soll langfristig aufbewahrt werden (z. B. sollen Moodle Kurse langfristig aufbewahrt werden?)</li>
+  <li>Wie sollen Ressourcen nach Außen präsentiert werden?</li>
+</ul>
+
+<p><strong>Weiterführende Fragen (z. T. auch Workflow-bedingt):</strong></p>
+<ul>
+  <li>Welches Metadatenschema?</li>
+  <li>Sollen Objekte “geschlossen” werden können? (z.  B. Embargo-Periode)</li>
+  <li>Qualitätskontrollen?</li>
+  <li>Zugangsbeschränkungen?</li>
+  <li>In welchen File Formaten soll archiviert werden, damit LZA (Langzeitarchivierung) garantiert werden kann?</li>
+</ul>
+
+<p><strong>PHAIDRA:</strong> UniWien entwickelt selbst (somit größere Freiheit), PHAIDRA besteht schon länger, daher hat die Uni auch schon etablierte Ressourcen (2 VZ-Kräfte aktuell); 2007: Bedarf an einem System für die LZA von digitalen Objekten wird erkannt (d. h. damals wurde noch nicht in spezifischen Ressourcen (OER, Forschungsdaten, Publikationen, etc.) gedacht); Fedora als Kern, PHAIDRA drauf; PHAIDRA ist auch Open Source (!), aber genauso wie EduSharing oder Goobi (d. h. “alleine” kann man das nicht betreiben/aufsetzen). Code tlws. auf GitHub und tlws. intern (the work in progress part); am besten sich mit den zuständigen Kollegen an der UW in Verbindung setzen.
+UW hat einige Hosting-Lösungen für Organisationen in Österreich (Kunstunis, FH St. Pölten, LandesBib Vorarlberg); UW kann das weiterhin auch machen, muss aber langsam aufpassen, dass sie sich nicht selbst übernehmen (weil sonst der Service darunter leidet); PHAIDRA/UW arbeitet nicht marktorientiert</p>
+
+<p><strong>Uni Klagenfurt:</strong> EduSharing Contra (Anm.: sie haben ein Repo für ein Projekt gebraucht): es braucht dafür eine Person an der eigenen Institution, der dafür zuständig ist und das maintained (Konfiguration, Sonderwünsche, etc.); Uni hat das noch nicht ganz am Schirm, das ein Repo gebraucht wird (?); haben jetzt einen Hash-basierten Fileserver; machen Moodle-Kurse aus ihren Lernobjekten (?)</p>
+
+<p><strong>Frage:</strong> wie hoch ist der administrative Aufwand schätzungsweise? (5-stellige Summe mit kompletter (?) Auslagerung (ink. Betrieb) (Bsp. EduSharing UIBK) (inkl. Alfresco Cluster, rendering service, ElasticSearch, HAProxy, Wartung, etc.))</p>
+
+<p><strong>UIBK:</strong> EduSharing sei gar nicht so billig; personalweise braucht man ca. 2 Leute, die sich bei Bedarf administrativ um das System kümmern können; dann braucht man jemanden für User Support (abhängig vom Workflow - wer lädt die Daten hoch? werden die Daten kuratiert?); involvement vom Betriebsrat</p>
+
+<p><strong>PHAIDRA-Partner:</strong> schnellsten Partner*innen brauchten ein halbes Jahr, manche aber 3 Jahre! (variiert sehr)</p>
+
+<p>Frage, ob sowas, wie Moodle (vom Reifegrad her) als Auswahl gibt zum Aufsetzen –&gt; ja, klassische, standard Repos (z. B. cken; aber auch ein paar Fedora-basierte: alidrora (???))</p>
+
+<p>Pädagogische Hochschulen haben einen Auftrag vom Ministerium bekommen, dass sie die OER-Produktion starten müssen; leider hat es sich so ergeben, dass jede Hochschule eine eigene Lösung umsetzt</p>
+
+<p><strong>Frage:</strong> Warum es keine Österreich-übergreifende Lösung gibt (eine zentrale)? &lt;– dass es das nicht gibt, ist strukturell bedingt (tlws.)</p>
+
+
+      </main>
+
+      <footer class="pt-5 my-5 text-muted border-top">
+        Created by ?? &middot; &copy; 2022
+      </footer>
+    </div>
+  </body>
+</html>
+

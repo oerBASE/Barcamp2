@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Recursive";
+    src: url(/assets/css/Recursive.ttf);
+}
+
+* {
+    font-family: "Recursive";
+}
+
+h3 {
+    margin-top: 5vh;
+    width: fit-content;
+}
+
+body {
+    background-image: url(/assets/images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img {
+    max-width: 50%;
+    @media (max-width: 768px) {
+        max-width: 80vw;
+    }
+}
+
+b, strong {
+    font-weight: 1000;
+    font-size: large;
+}
