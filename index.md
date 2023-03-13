@@ -7,7 +7,7 @@ where: "[Palais Strudlhof](https://www.strudlhof.at/de/) in Wien"
 ---
 
 ### Veranstaltungsinfo
-Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp](/barcamp-1) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
+Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp]({% link barcamp-1.md%}) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
 
 * Was gibt es Neues in der OER-Infrastrukturlandschaft?
 * Welche Einsichten und Ergebnisse kann man aus den Erfahrungen der letzten Jahre ableiten?

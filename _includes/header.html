@@ -10,7 +10,7 @@
   {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
   {% for page in pages %}
     <li class="nav-item active">
-      <a class="nav-link" aria-current="page" href="{{ page.url }}">{{ page.title }}</a>
+      <a class="nav-link" aria-current="page" href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
   </ul>

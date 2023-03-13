@@ -17,20 +17,20 @@ subheader: "“Are we OER yet?”"
 
 Am 5.7. fand an der Universität Graz das OER-Infrastruktur Barcamp statt. Hier finden Sie nun die Dokumentation der Sessions. 
 
-<img src="/assets/images/tagcloud.jpg">
+![OER-Infrastruktur-Barcamp-Tagcloud]({{ site.baseurl }}/assets/images/tagcloud.jpg)
 
 Das Barcamp wurde von fast 30 Teilgeber:innen gestaltet -  Organisator:innen, Session-Leiter:innen und Mitdisktutant:innen. Die eingebrachten Themen reichten von technischen über inhaltliche bis zu organisatorischen Fragestellungen. 
 
-<img src="/assets/images/P1002398.JPG">
+![OER-Infrastruktur-Foto1]({{ site.baseurl }}/assets/images/P1002398.JPG)
 <div></div>
-<img src="/assets/images/oer1002449.JPG">
+![OER-Infrastruktur-Foto2]({{ site.baseurl }}/assets/images/oer1002449.JPG)
 
 ### Repos & Co: 
 Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit publiziert und im Netz sichtbar gemacht werden können: 
 [https://pad.uni-graz.at/p/oerinfra-intro](https://pad.uni-graz.at/p/oerinfra-intro).
 
 ### Sessionplan & Doku: 
-<img src="/assets/images/sessionlist.jpg">
+![OER-Infrastruktur-Barcamp-Sessionplan]({{ site.baseurl }}/assets/images/sessionlist.jpg)
 
 * 11:00-12:00 --- Raum 44.21 - [Session 1-1](/barcamp-1/session-1-1)   
 Externe Ressourcen in Repositorien (Opencast)
