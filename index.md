@@ -84,5 +84,5 @@ Team nationaler Aggregator:
 * Eva Gergely: Universität Wien
 * Peter Toth: Universität Wien
 
-### Und weiter? 
+### Und weiter?  
 Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) besteht eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at). Bei Interesse bitte um Kontaktaufnahme. 
