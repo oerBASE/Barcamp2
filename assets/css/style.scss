@@ -1,4 +1,9 @@
 ---
 ---
 
+@font-face {
+    font-family: "Recursive";
+    src: url("{{ "/assets/css/Recursive.ttf" | relative_path }}");
+}
+
 @import 'default/globals', 'default/template', 'default/header';
