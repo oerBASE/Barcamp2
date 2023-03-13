@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: home
+header: "zweites OER-Infrastruktur-Barcamp #oerfuture"
+subheader: '"whatever works"'
+when: "16.5.2023 9:30 - 16:00"
+where: "[Palais Strudlhof](https://www.strudlhof.at/de/) in Wien"
 ---
-# zweites OER-Infrastruktur-Barcamp #oerfuture
-"whatever works"
-
-* * *
-### Wann
-16.5.2023 9:30 - 16:00 
-
-### Wo
-[Palais Strudlhof](https://www.strudlhof.at/de/) in Wien
 
 ### Veranstaltungsinfo
-Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp](https://oerbase.github.io/Barcamp/) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
+Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp](/barcamp-1) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
 
 * Was gibt es Neues in der OER-Infrastrukturlandschaft?
 * Welche Einsichten und Ergebnisse kann man aus den Erfahrungen der letzten Jahre ableiten?
@@ -47,14 +42,14 @@ Das OER-Infrastruktur Barcamp bietet Platz, um alle diese Aspekte zu diskutieren
 
 ### Zeitplan
 
-9:30-10:00 Eintrudeln, Coffee&High Fives
-10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung  
-11:00-11:45 Sessions #1  
-12:00-12:45 Sessions #2  
-12:45-13:30 Mittagspause  
-13:30-14:15 Sessions #3  
-14:30-15:15 Sessions #4  
-15:30-16:00 Zusammenfassung und Abschluss  
+9:30-10:00 Eintrudeln, Coffee&High Fives<br>
+10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung<br>
+11:00-11:45 Sessions #1<br>
+12:00-12:45 Sessions #2<br>
+12:45-13:30 Mittagspause<br>
+13:30-14:15 Sessions #3<br>
+14:30-15:15 Sessions #4<br>
+15:30-16:00 Zusammenfassung und Abschluss<br>
 
 ### Kontakt und Anmeldung
 Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input!   

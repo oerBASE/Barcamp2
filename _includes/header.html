@@ -1,0 +1,17 @@
+<header id="oer-header" class="d-flex align-items-center pb-3 mb-5 border-bottom">
+  <a id="oer-header-menu" class="d-flex align-items-center text-dark text-decoration-none">
+    <span class="fs-4">{{ site.title }}</span>
+  </a>
+
+  <ul id="oer-past-barcamps" class="nav nav-pills">
+    <li class="nav-item active">
+      <a class="nav-link" aria-current="page" href="/">Home</a>
+    </li>
+  {% assign pages = site.pages | where_exp: 'page', 'page.title' %}
+  {% for page in pages %}
+    <li class="nav-item active">
+      <a class="nav-link" aria-current="page" href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</header>

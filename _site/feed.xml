@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-10T13:13:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">OER-Infrastruktur-Barcamp</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Invite</title><link href="http://localhost:4000/barcamp-1/invite" rel="alternate" type="text/html" title="Invite" /><published>2023-03-10T00:00:00+01:00</published><updated>2023-03-10T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/invite</id><content type="html" xml:base="http://localhost:4000/barcamp-1/invite"><![CDATA[<h3 id="veranstaltungsinfo">Veranstaltungsinfo</h3>
+<p>Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?</p>
+
+<p>Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?</p>
+
+<p>Sind die derzeitigen Bestrebungen auf dem richtigen Weg?   <br />
+Und wenn ja: ist es noch weit?</p>
+
+<h3 id="ziel-der-veranstaltung">Ziel der Veranstaltung</h3>
+<p>Im Rahmen dieses Barcamps zum Dachthema “OER-Infrastruktur” möchten wir gegenseitig Einblick in aktuelle Infrastrukturprojekte ermöglichen und gemeinsam Fragen und Visionen diskutieren, die die technische und organisatorische Bereitstellung von OER betreffen.</p>
+
+<p><img src="/assets/images/OER@ZMB.png" alt="Humboldtstr. 48, 8010 Graz" /></p>
+
+<h3 id="zielgruppe">Zielgruppe</h3>
+<p>Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!</p>
+
+<h3 id="die-regeln">Die Regeln</h3>
+<ul>
+  <li>Die oberste Regel des Barcamps lautet: “Rede über das Barcamp!” Erzählen Sie auf allen Kanälen (persönlich, Twitter, Facebook, Instagram, Blog usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!</li>
+  <li>Nutzen Sie #oerinfra!</li>
+  <li>Es kommen die Teilnehmer_innen zu Wort - jede_r Teilnehmer_in ist aktiv beteiligt.</li>
+  <li>Wer etwas beitragen möchte, meldet die Session zu Beginn der Veranstaltung an, der Ablauf (Sessionfolge) wird am Beginn der Veranstaltung festgelegt.</li>
+  <li>Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange, wie sie dauert oder bis eine neue Session beginnt.</li>
+</ul>
+
+<hr />
+<h3 id="wann">Wann</h3>
+<p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat5.Juli.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-07-05T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="50%" height="70"></iframe></p>
+
+<h3 id="zeitplan">Zeitplan</h3>
+
+<p>10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung<br />
+11:00-11:45 Sessions #1<br />
+12:00-12:45 Sessions #2<br />
+12:45-13:30 Mittagspause<br />
+13:30-14:15 Sessions #3<br />
+14:30-15:15 Sessions #4<br />
+15:30-16:00 Zusammenfassung und Abschluss</p>
+
+<h3 id="wo">Wo</h3>
+<p><a href="https://www.uni-graz.at/">Universität Graz</a><br />
+Humboldtstr. 48, 8010 Graz (“ZMB Ex-Usu-Gebäude”)</p>
+
+<p><a href="https://www.openstreetmap.org/?mlat=47.08050&amp;mlon=15.44716#map=17/47.08050/15.44716"><img src="/assets/images/OSM-UG.png" alt="Humboldtstr. 48, 8010 Graz" /></a></p>
+
+<h3 id="veranstalter">Veranstalter</h3>
+
+<p>Projekt Open Education Austria   <br />
+AP 2 “Lokale Repositorien aufbauen und weiterenwickeln”</p>
+
+<p><a href="https://www.openeducation.at/">Open Education Austria</a>  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).</p>
+
+<p>Projektteam:</p>
+<ul>
+  <li>Andreas Parschalk: Universität Innsbruck</li>
+  <li>Julia Schindler: Universität Innsbruck</li>
+  <li>Markus Schmid: Universität Innsbruck</li>
+  <li>Michael Raunig: Universität Graz</li>
+  <li>Heimo Divis: Universität Graz</li>
+  <li>Christoph Ladurner: Technische Universität Graz</li>
+</ul>
+
+<h3 id="kontakt-und-anmeldung">Kontakt und Anmeldung</h3>
+<p>Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input! <br />
+<a href="mailto:oer@uni-graz.at">oer@uni-graz.at</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Veranstaltungsinfo Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?]]></summary></entry><entry><title type="html">Dokumentation Session 1-2</title><link href="http://localhost:4000/barcamp-1/session-1-2" rel="alternate" type="text/html" title="Dokumentation Session 1-2" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-1-2</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-1-2"><![CDATA[<h2 id="thema-oer-produktion">Thema: OER produktion</h2>
+<p><br /></p>
+
+<h3 id="erfahrungsbericht-klagenfurt-nina-lobnig-einformaticsaustria">Erfahrungsbericht Klagenfurt (Nina Lobnig): eInformatics@Austria</h3>
+<p>produktion von interaktiven videos (H5P), in youtube nicht sichtbar, erst in Moodle
+teaser video am Anfang (hast du dir schonmal überlegt?), animierte charaktere</p>
+
+<p>Projektziel eInformatics: Kurse für SQL, wie macht man Datenbank, selbstlernkurs, veröffentlichung auf iMooX</p>
+
+<h3 id="h5p-videos-welcher-part-ist-der-h5p">H5P videos: welcher Part ist der H5P?</h3>
+<p>interaktives Buch (kompliziert für Kinder und Schüler)
+mehr mit kleinen Spots mit zwischenfragen (Miniquiz), was ist im Video vorgekommen?</p>
+
+<h3 id="was-ist-h5p">Was ist H5P?</h3>
+
+<p>Moodle verwendet es für interaktive aktionen, bietet mehr als features als normales moodle quiz
+“overlay” zum video, video kann gestopt werden für die interaktion
+viele LMS verwenden es</p>
+
+<h3 id="erfahrungen-diskussion">Erfahrungen diskussion:</h3>
+
+<p>Leuten fehlt die zeit für MOOCs, ködern mit föderungen/unterstützung. Fehlende resourcen
+Gibt immer wieder fördertöpfe in der lehre, dann kommen leute mit ideen
+teils interne leistungsverechnungen gelöst
+TU Graz großes video team begleitet die erstellung
+Regelmäßige förderungen werden ausgeschrieben
+Österreich und die EU, wo personen des öffentliches interesses mitwirken schaltet sich das land/bund auch ein</p>
+
+<hr />
+
+<p>FH hängt sich oft an andere institute (internationale management), wo auschreibungen gestaltet werden
+Wie werden stellen finanziert?
+Teils teils, teils über projekt
+Knappes budget, gerade genug für die projekte</p>
+
+<p>Projekte bringen dinge ins rollen, so werden andere auch motiviert mitzumachen</p>
+
+<p>Professoren legen großen wert auf forschung, aber wahrzunehmen des weiternutzes durch OER wird vernachlässigt</p>
+
+<p>Sorge aus rechtlicher sicht, wegen copyrights und lizenzierung auf dauer</p>
+
+<p>Wenn man material bekommt kann man nicht alles durchgehen und checken ob diese lizenzfrei sind
+man müsste bei der erstellung alles per hand durchgehen und chekcken</p>
+
+<p>wie weit geht die produktion? ich mach die grafiken, animationen, ton etc..
+wird alles selbst gemacht, software für animation muss man sich einlesen
+greenscreen videos werden schnell gemacht
+schriftarten sind ein problem wegen lizenzen (auch andere lizenzen sind problematisch)</p>
+
+<p>oft verwendung von schon vorhandenen videos, was problematisch ist</p>
+
+<p>produktionslaufzeit von videos?
+kommt auf die länge an und welche art von material noch verwendet wird
+mindestens 1 jahr für einen MOOC (konzeptiert, video gedreht, texte, materialien)</p>
+
+<p>Viele leute keine vorstellung wieviel zeit in so ein video geht (z.b. kurgesagt) wo alles selbst gemacht wird
+Jedes video ca 1000-1200 arbeitsstunden (bei 3-5min video)</p>
+
+<p>die meisten hier produzieren videos fürs institut/department oder lehrende</p>
+
+<p>es können fertige materialien hochgeladen werden oder nur teils fertige materialien</p>
+
+<p>Microsoft hat andere ansprüche an technische ansprüche an die ergebnisse als univesitäten</p>
+
+<p><strong>Session 2-2 Nina Lobnig - Universität Klagenfurt</strong>
+<br />
+Wie erstellt man gut wiederverwendbare Lernobjekte?</p>
+<ul>
+  <li>modular</li>
+  <li>Kontexte, Verweise,  Voraussetzungen bereiten eventuell Probleme….  “Wie im vorherigen Kapitel besprochen…..”</li>
+  <li>geeignet lizenziert</li>
+  <li>passende Granularität
+Lösung in Klagenfurt (<a href="https://www.aau.at/en/aics/">https://www.aau.at/en/aics/</a>)
+Videos auf youtube - unter einem account - später versch Playlists spez. für braching szenarien etc.
+Namentliche Nennung in den VIdeos: 
+  primär Universität bzw. Institut bzgl. Rückfragen</li>
+</ul>
+
+<p><strong>Barrierefreiheit von Videos</strong></p>
+<ul>
+  <li>h5p Elemente - screen reader kompatibilität</li>
+  <li>Kontrast etc in Videos</li>
+  <li>Transcript der Videos auf Youtube hochgeladen</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Thema: OER produktion]]></summary></entry><entry><title type="html">Dokumentation Session 2-1</title><link href="http://localhost:4000/barcamp-1/session-2-1" rel="alternate" type="text/html" title="Dokumentation Session 2-1" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-2-1</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-2-1"><![CDATA[<h4 id="repositorien-software-technisches-setup">Repositorien, Software, technisches Setup</h4>
+
+<p><strong>Begriffe:</strong></p>
+<ul>
+  <li>LZA - Langzeitarchivierung</li>
+  <li>UW - Uni Wien</li>
+  <li>OER - Open Educational Resource</li>
+  <li>RDM - Research Data Management</li>
+  <li>VZ - Vollzeit</li>
+  <li>UIBK - Uni Innsbruck</li>
+  <li>DMS - Datenmanagementservice</li>
+</ul>
+
+<p>Existierende Lösungen an den Instutitonen: EduSharing (Alfresco als Kern [1]), OpenCast, PHAIDRA (Fedora als Kern), inVenio RDM</p>
+
+<p>[1] EduSharing praktisch Alfresco mit einem Frontend; UIBK verwenden Alfresco für EduSharing aber auch als eigenes DMS (unabhängig davon); man kann keine bestehende Alfresco Instanz nehmen und das zum Repo “dazu geben”, sondern man braucht eine eigene Instanz</p>
+
+<p><strong>GRUNDSATZFRAGE:</strong><br />
+Was ist ein OER-Repo? Braucht man das (für die eigene Institution)?</p>
+
+<p><strong>Grundlegende Fragen:</strong></p>
+<ul>
+  <li>Braucht man überhaupt ein Repo (für die jeweiligen Ressourcen)</li>
+  <li>Ob eine Institution eigene Ressourcen hat, um ein Repo aufzusetzen, oder ob sie eine fertige (maintained) Lösung brauchen; auch wenn es Unterstützung durch eine Firma (Metaventis) oder Community gibt, gibt es einen Entwicklungsaufwand auf der eigenen Institution (Schnittstellen, etc.)</li>
+  <li>Welche Art von Daten hat man? Was ist die Zielsetzung vom Repo? (Was soll mit den Daten passieren?) Welche institutionelle Möglichkeiten habe ich? (z. B.: Wenn man z. B. weiß, dass 90% der Daten Videos sind, sollte man eine entsprechende, spezialisierte Lösung wählen (die auch Streaming ermöglichen, etc.).)</li>
+  <li>Wo liegen die Daten? Ist ein DMS angebunden?</li>
+  <li>Wird Change von der Institution mitgetragen (–&gt; Einführung eines Repos sei eine Organisationsänderung! Damit gehen auch personelle Veränderungen einher)? (Sonst wird es ressourcentechnisch schwierig)</li>
+  <li>Kann man den Bedarf nicht mit einem institutionellen Repo abdecken? (in bestehende Infrastrukturen mitnehmen)</li>
+  <li>Welche Erwartungen habe ich an das Repräsentationsschicht (PHAIDRA setzt das sehr stark in den Hintergrund; Lageerhaltung von digitalen Objekten, dafür kann man Applikationen auf das Repo “drauf setzen”)</li>
+  <li>Soll langfristig aufbewahrt werden? Was soll langfristig aufbewahrt werden (z. B. sollen Moodle Kurse langfristig aufbewahrt werden?)</li>
+  <li>Wie sollen Ressourcen nach Außen präsentiert werden?</li>
+</ul>
+
+<p><strong>Weiterführende Fragen (z. T. auch Workflow-bedingt):</strong></p>
+<ul>
+  <li>Welches Metadatenschema?</li>
+  <li>Sollen Objekte “geschlossen” werden können? (z.  B. Embargo-Periode)</li>
+  <li>Qualitätskontrollen?</li>
+  <li>Zugangsbeschränkungen?</li>
+  <li>In welchen File Formaten soll archiviert werden, damit LZA (Langzeitarchivierung) garantiert werden kann?</li>
+</ul>
+
+<p><strong>PHAIDRA:</strong> UniWien entwickelt selbst (somit größere Freiheit), PHAIDRA besteht schon länger, daher hat die Uni auch schon etablierte Ressourcen (2 VZ-Kräfte aktuell); 2007: Bedarf an einem System für die LZA von digitalen Objekten wird erkannt (d. h. damals wurde noch nicht in spezifischen Ressourcen (OER, Forschungsdaten, Publikationen, etc.) gedacht); Fedora als Kern, PHAIDRA drauf; PHAIDRA ist auch Open Source (!), aber genauso wie EduSharing oder Goobi (d. h. “alleine” kann man das nicht betreiben/aufsetzen). Code tlws. auf GitHub und tlws. intern (the work in progress part); am besten sich mit den zuständigen Kollegen an der UW in Verbindung setzen.
+UW hat einige Hosting-Lösungen für Organisationen in Österreich (Kunstunis, FH St. Pölten, LandesBib Vorarlberg); UW kann das weiterhin auch machen, muss aber langsam aufpassen, dass sie sich nicht selbst übernehmen (weil sonst der Service darunter leidet); PHAIDRA/UW arbeitet nicht marktorientiert</p>
+
+<p><strong>Uni Klagenfurt:</strong> EduSharing Contra (Anm.: sie haben ein Repo für ein Projekt gebraucht): es braucht dafür eine Person an der eigenen Institution, der dafür zuständig ist und das maintained (Konfiguration, Sonderwünsche, etc.); Uni hat das noch nicht ganz am Schirm, das ein Repo gebraucht wird (?); haben jetzt einen Hash-basierten Fileserver; machen Moodle-Kurse aus ihren Lernobjekten (?)</p>
+
+<p><strong>Frage:</strong> wie hoch ist der administrative Aufwand schätzungsweise? (5-stellige Summe mit kompletter (?) Auslagerung (ink. Betrieb) (Bsp. EduSharing UIBK) (inkl. Alfresco Cluster, rendering service, ElasticSearch, HAProxy, Wartung, etc.))</p>
+
+<p><strong>UIBK:</strong> EduSharing sei gar nicht so billig; personalweise braucht man ca. 2 Leute, die sich bei Bedarf administrativ um das System kümmern können; dann braucht man jemanden für User Support (abhängig vom Workflow - wer lädt die Daten hoch? werden die Daten kuratiert?); involvement vom Betriebsrat</p>
+
+<p><strong>PHAIDRA-Partner:</strong> schnellsten Partner*innen brauchten ein halbes Jahr, manche aber 3 Jahre! (variiert sehr)</p>
+
+<p>Frage, ob sowas, wie Moodle (vom Reifegrad her) als Auswahl gibt zum Aufsetzen –&gt; ja, klassische, standard Repos (z. B. cken; aber auch ein paar Fedora-basierte: alidrora (???))</p>
+
+<p>Pädagogische Hochschulen haben einen Auftrag vom Ministerium bekommen, dass sie die OER-Produktion starten müssen; leider hat es sich so ergeben, dass jede Hochschule eine eigene Lösung umsetzt</p>
+
+<p><strong>Frage:</strong> Warum es keine Österreich-übergreifende Lösung gibt (eine zentrale)? &lt;– dass es das nicht gibt, ist strukturell bedingt (tlws.)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Repositorien, Software, technisches Setup]]></summary></entry><entry><title type="html">Dokumentation Session 2-2</title><link href="http://localhost:4000/barcamp-1/session-2-2" rel="alternate" type="text/html" title="Dokumentation Session 2-2" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-2-2</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-2-2"><![CDATA[<h4 id="nina-lobnig---universität-klagenfurt">Nina Lobnig - Universität Klagenfurt</h4>
+
+<p><strong>Wie erstellt man gut wiederverwendbare Lernobjekte?</strong></p>
+<ul>
+  <li>modular</li>
+  <li>Kontexte, Verweise,  Voraussetzungen bereiten eventuell Probleme….  “Wie im vorherigen Kapitel besprochen…..”</li>
+  <li>geeignet lizenziert</li>
+  <li>passende Granularität</li>
+</ul>
+
+<p>Lösung in Klagenfurt (<a href="https://www.aau.at/en/aics/">https://www.aau.at/en/aics/</a>)</p>
+
+<p>Videos auf youtube - unter einem account - später versch Playlists spez. für braching szenarien etc.</p>
+
+<p><strong>Namentliche Nennung in den Videos:</strong>
+primär Universität bzw. Institut bzgl. Rückfragen</p>
+
+<p><strong>Barrierefreiheit von Videos</strong></p>
+<ul>
+  <li>h5p Elemente - screen reader kompatibilität</li>
+  <li>Kontrast etc in Videos</li>
+  <li>Transcript der Videos auf Youtube hochgeladen</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Nina Lobnig - Universität Klagenfurt]]></summary></entry><entry><title type="html">Dokumentation Session 3-1</title><link href="http://localhost:4000/barcamp-1/session-3-1" rel="alternate" type="text/html" title="Dokumentation Session 3-1" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-3-1</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-3-1"><![CDATA[<p><strong>Frage: Erfahrungen bei Mehrsprachigkeit von Metadaten</strong></p>
+
+<p>Es sollen zu jedem Objekt auch englische Metasprachen geben, wenn es keine übliche Sprache ist. Akademi: Urdu bei einen Projekt. Verknüpfung von GUI und Metadatensprachen sind nicht gut.</p>
+
+<p>Eine Entkoppelung ist schwierig: Beispiel Mathematik (für die Unschärfe bei dei der Suche)
+Lösung kann sein ein taggen der Sparche des Titles, jedes Metadatenfeld kann mit einer Sprache getagged werden. Das muss aber dann von jeden angebunden Repo geliefert werden.</p>
+
+<p>Mischung von Englisch (Titel) und Beschreibung (Deutsch) kann vorkommen. Bei der Uni Innsbruk ist vorgeschrieben, dass die Metaden (Beschreibung) auf Deutsch sind. Der Title kann in allen möglichen Sprachen sein.</p>
+
+<p>Wird ein englsicher Begriff gesucht und die gefundne Ergebnisse sind in mehren Sprachen vorhanden, soll auch die englische Version angezeigt werden. Auch wenn die GUI nicht auf englisch ist.</p>
+
+<p>EU Projekt zu diesem Thema, x5gon -&gt; Mehrsprachigkeit: <a href="https://www.x5gon.org/">https://www.x5gon.org/</a> Es gibt dazu auch ein entsprechendes Paper.</p>
+
+<p>Vier Ebene:</p>
+<ul>
+  <li>Sprache der GUI (wird nur die GUI getriggered)</li>
+  <li>Sparche der Objekt (vielliecht über eine Facette)</li>
+  <li>Sprache der Zielgruppe (wird bei uns nicht berücksichtig)</li>
+  <li>Sprache der Metadaten (kann auf alle Metadatenfelder bezogen sein)</li>
+</ul>
+
+<p>Diskussion ist die Anzeige der Metadaten</p>
+
+<p>Sprache des Objekts sollte mitgeliefert werden.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Frage: Erfahrungen bei Mehrsprachigkeit von Metadaten]]></summary></entry><entry><title type="html">Dokumentation Session 3-2</title><link href="http://localhost:4000/barcamp-1/session-3-2" rel="alternate" type="text/html" title="Dokumentation Session 3-2" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-3-2</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-3-2"><![CDATA[<h4 id="kristina-neuböck-uni-graz">Kristina Neuböck (Uni Graz)</h4>
+<p>(Protokoll von Katharina Hohla)</p>
+
+<p>MOOC “OER nutzen und erstellen”
+im Rahmen von 1 ECTS (8 Stunden für MOOC, Rest für praktische Übungen und 3 Treffen) in 4 Wochen</p>
+
+<p><strong>Herausforderungen der OER-Weiterbildung:</strong></p>
+<ul>
+  <li>Zeitmanagement: Zeit finden neben der Arbeit</li>
+  <li>MOOC durchackern nicht ausreichend für “Bescheidwissen”</li>
+  <li>im Rahmen von praktischen Übungen tauchen immer mehr Problematiken auf &gt; man wird immer unsicherer</li>
+</ul>
+
+<p><strong>Vorteile von Begleit-Weiterbildung/
+Mit welchen Argumenten kann man die OER-Weiterbildung bewerben?:</strong></p>
+<ul>
+  <li>Soziales Lernen</li>
+  <li>Begleitung bei meinen OER-Anfängen</li>
+  <li>Mehr Sicherheit in Bezug auf rechtliche Fragen zu OER</li>
+  <li>Bestehendes Wissen zu OER prüfen/erweitern</li>
+  <li>Weniger Dropout im Vergleich zu MOOC alleine &gt; Begleitung bis zum OER-Zertifikat</li>
+  <li>Weiterbildung ist Grundlage für Ausbildung zu OER-Trainer:in</li>
+</ul>
+
+<p><strong>Weitere Ideen/Wortmeldungen zum OER-MOOC/zur OER-Weiterbildung/zu OER allgemein</strong></p>
+<ul>
+  <li>Weiterführen der Community, auch nach Weiterbildung</li>
+  <li>Forum dient im Nachhinein als “Nachschlagewerk”</li>
+  <li>“Teilen” ist nicht überall etabliert? An jeder Hochschule anders. Oft auch andere Hindernisse:
+    <ul>
+      <li>Ist es gut genug?</li>
+      <li>Mach ich das richtig?</li>
+      <li>Angst vor Urheberrechtsverletzungen?</li>
+      <li>mein Thema ist so speziell - das braucht eh niemand?</li>
+    </ul>
+  </li>
+  <li>Veröffentlichung in Forschung sehr üblich, bei Lehrmaterilien noch nicht so etabliert.
+    <ul>
+      <li>Warum in Forschung wichtig? Weil die Zahlen der Publikationen/Zitaten zählen.</li>
+      <li>OER wird aber nicht “gezählt”, man macht es nur aus Überzeugung.</li>
+    </ul>
+  </li>
+  <li>Untereinander teilen/tauschen vs. Veröffentlichung (OER)</li>
+  <li>Es braucht von der Hochschule auch eine OER-Policy als Grundlage.</li>
+  <li>OER(-Weiterbildung) bewerben, wenn es an Hochschule noch kein Repo gibt? Wo sollen die Lehrenden dann bis zum Repo veröffentlichen?</li>
+</ul>
+
+<p><strong>Erwartungen an OER-Weiterbildung (organisatorisch/inhaltlich):</strong></p>
+<ul>
+  <li>Aufwand im Vorhinein klar (synchrone Treffen, Aufgaben etc.)</li>
+  <li>Beratung v.a. in Rechtssachen</li>
+  <li>Starker Fokus auf Suche von OER (lange Liste von Plattformen, Tools etc.), vor allem nach kleinen Assets wie z. B. Bildern</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Kristina Neuböck (Uni Graz) (Protokoll von Katharina Hohla)]]></summary></entry><entry><title type="html">Dokumentation Session 4-1</title><link href="http://localhost:4000/barcamp-1/session-4-1" rel="alternate" type="text/html" title="Dokumentation Session 4-1" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-4-1</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-4-1"><![CDATA[<p>persistent identifier &amp; controlled vocabularies
+problem: everyone experienced linksrot -   links on older websites leading to nowhere, since the target page/object has moved. for an OER repo we want to prevent that</p>
+
+<p>PI help to solve that problem
+technologies: handle (HDL), DOI, URN, purl …
+all those technologies base on the principle of handing out IDs/names that get resolved by a url-stable resolver service and redirect to the URL associated with the ID. e.g. <a href="https://hdl.handle.net/20.500.13037/OERQZMTQOSU">https://hdl.handle.net/20.500.13037/OERQZMTQOSU</a> resolves to the object <a href="https://oer-repo.uibk.ac.at/edu-sharing/components/render/eb6a9048-9e7e-490e-a1f9-954c77fec332?viewType=1">https://oer-repo.uibk.ac.at/edu-sharing/components/render/eb6a9048-9e7e-490e-a1f9-954c77fec332?viewType=1</a></p>
+
+<p><strong>HDL:</strong></p>
+<ul>
+  <li>prefix gets registered at a registry (e.g. <a href="http://handle.net/">http://handle.net/</a>) for some money (300 USD for 5 years)</li>
+  <li>handle server installed locally</li>
+  <li>repository configured to register new handles and associate the URLs</li>
+  <li>changes of the locations of the object need to be updated on the handle server</li>
+  <li>proxy system that distributes handles across different resolvers (also to doi.org: <a href="https://doi.org/20.500.13037/OERQZMTQOSU">https://doi.org/20.500.13037/OERQZMTQOSU</a>)</li>
+</ul>
+
+<p><strong>DOI:</strong></p>
+<ul>
+  <li>technically the same as HDL</li>
+  <li>adds a layer of policy (e.g. persistence of landingpage of deleted objects)</li>
+  <li>metadata needs to be submitted for registered DOIs (datacite schema)</li>
+  <li>metadata from datacite gets harvested by others; item will be more visible, more popular; (e.g. Google Dataset Search, OpenAIRE)</li>
+  <li>can cost money per id (~80 cents)</li>
+</ul>
+
+<p><strong>w3id:</strong></p>
+<ul>
+  <li>community driven persistent url service;</li>
+  <li>maintained by W3C Permanent Identifier Community Group</li>
+  <li>simple system based on htaccess rewrite rules for apache httpd</li>
+  <li>maintained in git repo: <a href="https://github.com/perma-id/w3id.org">https://github.com/perma-id/w3id.org</a></li>
+  <li>join our w3id namespace oerBASE <a href="https://github.com/oerBASE/w3id.org/tree/master/oerbase">https://github.com/oerBASE/w3id.org/tree/master/oerbase</a> by contacting <a href="mailto:andreas.parschalk@uibk.ac.at">andreas.parschalk@uibk.ac.at</a> or <a href="mailto:julia.schindler@uibk.ac.at">julia.schindler@uibk.ac.at</a></li>
+  <li>example: <a href="https://w3id.org/oerbase/profiles/lomuibk/latest/schemas/lom-uibk.xsd">https://w3id.org/oerbase/profiles/lomuibk/latest/schemas/lom-uibk.xsd</a></li>
+</ul>
+
+<p><strong>controlled vocabularies:</strong><br />
+reasoning: using clearly defined vocabularies e.g. as keywords or for classification of objects makes interoperability between systems possible. vocabularies can be mapped from one to another across languages and domains and could also be mapped/normalised by metadata aggregators.</p>
+
+<p><strong>controlled vocabularies used in oer in innsbruck:</strong></p>
+<ul>
+  <li>oefos (austrian fields of science: <a href="https://vocabs.acdh.oeaw.ac.at/oefos/de/">https://vocabs.acdh.oeaw.ac.at/oefos/de/</a> <a href="https://w3id.org/oerbase/vocabs/oefos2012/schema.json">https://w3id.org/oerbase/vocabs/oefos2012/schema.json</a>)</li>
+  <li>SDG (1st level only):
+    <ul>
+      <li><a href="http://metadata.un.org/sdg/?lang=en">http://metadata.un.org/sdg/?lang=en </a></li>
+      <li><a href="https://w3id.org/oerbase/vocabs/sdg/index.json">https://w3id.org/oerbase/vocabs/sdg/index.json</a></li>
+    </ul>
+  </li>
+  <li>hcrt learning resource type (<a href="https://w3id.org/kim/hcrt/scheme">https://w3id.org/kim/hcrt/scheme</a>)</li>
+</ul>
+
+<p>other possibly useful controlled vocabularies/taxonomies for classification</p>
+<ul>
+  <li>DDC</li>
+  <li>GND Schlagwortkatalog</li>
+</ul>
+
+<p><strong>Discussion:</strong></p>
+<ul>
+  <li>newer öfos version</li>
+  <li>iconclass</li>
+  <li>using wikidata objects: e.g <a href="https://www.wikidata.org/wiki/Q7991">https://www.wikidata.org/wiki/Q7991</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[persistent identifier &amp; controlled vocabularies problem: everyone experienced linksrot - links on older websites leading to nowhere, since the target page/object has moved. for an OER repo we want to prevent that]]></summary></entry><entry><title type="html">Dokumentation Session 4-2</title><link href="http://localhost:4000/barcamp-1/session-4-2" rel="alternate" type="text/html" title="Dokumentation Session 4-2" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-4-2</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-4-2"><![CDATA[<h4 id="nutzungsbedingungen-für-oer-repos-an-unishochschulen--michael-raunig">Nutzungsbedingungen (für OER Repos an Unis/Hochschulen)- Michael Raunig</h4>
+
+<p><strong>Begriffe:</strong></p>
+<ul>
+  <li>UG - Uni Graz</li>
+  <li>UrhG - Urheberrechtsgesetz</li>
+  <li>OER - Open Educational Resources</li>
+  <li>UrhRecht/UrhR - Urheberrecht</li>
+  <li>PW - Passwort</li>
+  <li>MA - Mitarbeiter*in</li>
+  <li>UW - Uni Wien</li>
+</ul>
+
+<p>UG haben OER produziert und dann immer ein Papier unterschreiben lassen “ich sichere der UG meine Zustimmung zu, dieses Objekt <titel> unter diesen und jenen Bedingungen zu veröffentlichen [...]" --&gt; Ziel war die Absicherung gegen UrhG-Verletzungen; haben das dann mit Karteivermerk archiviert; jetzt im OER Portal machen sie das automatisiert mit Nutzungsbedingungen; andererseits ist jetzt die Frage, wie und auf welcher Basis man diese Nutzungsbedingungen verfasst. Soll man beim ersten Login die Bedingungen akzeptieren (es stehen rechtlich bindende Sachen drinnen, obviously)? 
+Es haben nur Leute Zugang zum OER Repo, die Uni-Angehörige sind (ich glaube aktuell ist auch Voraussetzung, dass sie eine Fortbildung zur OER-Erstellung absolviert haben - die Frage ist, wie lange man noch so streng sein kann)</titel></p>
+
+<p>An der UG kümmert sich Michael Raunig darum</p>
+
+<p><strong>Frage:</strong> ist eine Haftung angedacht?</p>
+
+<p><strong>Michael Raunig:</strong> in den UG Nutzungsbedingungen steht drinnen, dass die Objektinhaber<em>in (Hochlader</em>in) dafür haftet (?) (á la: die Leute sind selbst verantwortlich)</p>
+
+<p><strong>Wortmeldung:</strong> es sei wichtig, das Thema UrhG im Rahmen der Fortbildung zu thematisieren; –&gt; was über die Fortbildung hinaus passiert (wenn man die Fortbildung nicht mehr enforcen kann), könne man nicht beeinflussen</p>
+
+<p><strong>Klagenfurt:</strong> bei der Hochladung der Ressource muss man eine Checkbox bestätigen, dass die Ressource unter einer freien Ressource zur Verfügung steht und dass man das UrhRecht hat (Checkbox muss jedes Mal aktiv bestätigt werden)</p>
+
+<p><strong>Portfolioportal:</strong> Bei erster Anmeldung bekommt man eine Mail, die man “durchlesen” muss und erst dann kann man ein PW setzen</p>
+
+<p>Punkte, die wirklich wichtig sind, solle man (immer wieder) kurz durchlesen und bestätigen lassen; langer Nutzungstext erschrecke; kurze Texte würden weniger Unsicherheit auslösen</p>
+
+<p>Eventuell könnte man das schon in die Dienstverträge in einer Klausel aufnehmen (dass man sich bereit erklärt, OER Produktion voranzutreiben, unter diesen und jenen Bedingungen) &lt;– Raman meint, dass man Dienstverträge nicht nachträglich ändern kann (außer es ist eine generelle Rahmenvereinbarung)</p>
+
+<p><strong>Erfahrungen PHAIDRA:</strong> es sei grundsätzlich ein juristisches Thema (und somit inhärent nicht benutzerfreundlich ;)); Ziel, dass man als Betreiber*in des Repos nicht in eine Haftungssituation kommt; Service, den man anbietet, kann man auf zwei Ebenen betrachten: 1) Service Provider, 2) Content Provider &lt;– würde auch Haftung für den Inhalt bedeuten; was passiert, wenn ein MA aufgefordert ist, ein Objekt hochzuladen? (Rolle: hochlader) &lt;– da hat sich der UW Betriebsrat eingesetzt, dass dann nicht die Person haftet (passiert im Rahmen der Diensterfüllung, nach Außen gerichtlich verantworten muss sich die juristische Person UW)</p>
+
+<p><strong>Raman Zusammenfassung:</strong> es müsse ein<em>e Jurist</em>in und der Betriebsrat involviert werden</p>
+
+<p>Verstoß müsse man zur Anzeige bringen, Universität müsse dann darauf hin innerhalb von gesetzl. festgelegten Fristen agieren</p>
+
+<p>Wo zieht man die Grenze zwischen dienstlich und nicht dienstlich (Bsp.: Person erstellt als MA der Uni OERs für privaten Zweck oder für einen Zweck der nur am Rande was mit seinem Job zu tun hat)</p>
+
+<p><strong>Problemfelder:</strong> Verlage (z. B. auch Kunstbände, weil sehr aufwendig und in kleiner Auflage produziert), größere Konzerne oder Unternehmen mit UrhR Anspruch</p>
+
+<p>Haftung sei eines der Grundthemen bei OER, bzw. herrsche da ein verstärktes Bewusstsein für das Thema</p>
+
+<p><strong>Beispiel:</strong> Uni Projekt, dort gab es nach Projektende ein Problem mit einer Grafik, die auf der Webseite verwendet wurde (und es waren keine Ansprechpersonen zur Webseite mehr an der Uni und die Webseite war gar nicht mehr eine living Webseite ;))</p>
+
+<p><strong>Beispiel:</strong> FH hat ein Bild verwendet und haben dann viel Geld zahlen müssen; Geld wurde ein zweites Mal eingefordert, weil das Bild noch in einem Archiv lag und dann mussten sie noch ein drittes Mal zahlen, weil das Bild farblich leicht verändert noch an einer anderen Stelle lag (5-stellige Summe)</p>
+
+<p>Ist man, sobald man eine inhaltliche Prüfung macht, schon ein Content Provider und haftet man dadurch?</p>
+
+<hr />
+
+<p><strong>Offtopic:</strong> Sollen auch Unterlagen von Studierenden als OER zur Verfügung gestellt werden?</p>
+
+<p>Verweis auf Code of Conduct der Universität (?) (noch zum Thema Studierenden)</p>
+
+<p>Man solle nicht glauben, dass nur weil eine Person OER produziert, diese Person volles Bewusstsein über rechtliche Bedingungen hat!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Nutzungsbedingungen (für OER Repos an Unis/Hochschulen)- Michael Raunig]]></summary></entry><entry><title type="html">Dokumentation Session 1-1</title><link href="http://localhost:4000/barcamp-1/session-1-1" rel="alternate" type="text/html" title="Dokumentation Session 1-1" /><published>2023-03-09T00:00:00+01:00</published><updated>2023-03-09T00:00:00+01:00</updated><id>http://localhost:4000/barcamp-1/session-1-1</id><content type="html" xml:base="http://localhost:4000/barcamp-1/session-1-1"><![CDATA[<h3 id="problemstellung">Problemstellung</h3>
+
+<p>Wie sieht ein möglicher Import-Workflow in das Repository für externe Resourcen (Metadaten, keine Daten) aus. Das Problem wird am Beispiel von Videos, die auf der TU Graz Instanz von Opencast genannt Tube gehostet werden, diskutiert.</p>
+
+<h3 id="ausgangslage">Ausgangslage</h3>
+
+<p>Für den Import von Daten und Metadaten (Oberbegriff Record) wurden für das  Learning Management System (LMS) der TU Graz ein Plugin geschrieben (OER-Moodle-Plugin), das es ermöglicht die OER-Records mit Metadaten anzureichern. Das LMS bietet ein Plugin an, um Videos über das LMS in die Videoplattform Tube zu importieren. Die Records müssen gewisse Metadaten Felder zingend beeinhalten zb.: Öfos (Wissenschaftliche Klassifikation), Titel, Autor, Lizenz, Sprache.</p>
+
+<h3 id="wunsch">Wunsch</h3>
+
+<p>Der Workflow sollte nicht nur für die TU Graz implementiert werden, sondern auch von anderen Universitäten genutzt werden können. Da wir im OEAA Projekt mehrere Partner sind, die eine Videplattform betreiben und ebenfalls ein Repository betreiben oder in Betrieb nehmen ist es sinnvoll eine Lösung zu finden, die es ermöglicht den Workflow und auch den Code wiederzuverwenden.</p>
+
+<h3 id="diskussion">Diskussion</h3>
+
+<p>Was kann die OAI-PMH Schnittstelle von Opencast? Sie kann Sets liefern. Es kann ein Set erstellt werden, welches nur offen lizenzierte Records liefert (über OAI-PMH werden nur Metadaten geliefert, was in diesem Falle auch gewollt ist)</p>
+
+<p>Es besteht der Wunsch Metadaten Felder als zwingend vorhanden zu setzen. Dies hätte den Vorteil, dass die Metadaten beim import in das Repository in einem sauberen und schönen Zustand sind. Weiters würde es ohne weitere Kuratierung möglich sein, sie an den OERhub weiterzuleiten. Dabei wurde diskutiert ob es ein User Interface geben kann bzw gibt, welches das in Opencast direkt möglich macht. Weiters wurde angeführt, dass zwingend erforderliche Metadaten auch über eine Best Practice oder Policy genannte weise erzwungen werden könnten. Das wurde kontrovers diskutiert. Es besteht nicht so viel vertrauen in solchen Lösungen, da sie in der Eile der alltäglichen Pflichten leicht übergangen werden können.</p>
+
+<p>Es wurde diskutiert inwieweit sich die Metadaten in Opencast erweitern lassen. Es wurde dabei das Szenario durchgespielt, dass in ein oder zwei Jahren weitere Klassifikationen hinzukommen und diese auch auf zwingend vorhanden gesetzt werden können.</p>
+
+<p>Es wurden von verschiedenen Universitäten verschiedene Workflows skizziert, wie die Videos + Metadaten in das System gelangen. Dies und der Aufwand ein externes User Interface zu programmieren welches wieder nur für die TU Graz von nutzen ist, führte dazu, dass für die TU Graz klar wurde, dass die Metadaten der Videos wohl im OER-Moodle-Plugin verwaltet werden würden. Allerdings werden die Metadaten auch in Opencast abgespeichert werden, der Vollständigkeit halber.</p>
+
+<h3 id="result">Result</h3>
+
+<p>Die TU Graz wird sich einen OER-Moodle-Plugin zentralisierten Workflow überlegen. Das bedeutet, dass die bereits vorhande OER-Publizierungsinfrastruktur genutzt wird.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Problemstellung]]></summary></entry></feed>
