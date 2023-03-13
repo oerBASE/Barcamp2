@@ -40,7 +40,7 @@ OER Produktion
 Technische Umsetzung von Repositorien, Software im Vergleich
 * 12:00-13:00 --- Raum 44.22 - [Session 2-2]({{ site.baseurl }}/barcamp-1/session-2-2)  
 Modulare Gestaltung von Lernmaterial 
-* 13:30-14:30 --- Raum 44.21 --- [Session 3-1]{{ site.baseurl }}(/barcamp-1/session-3-1)  
+* 13:30-14:30 --- Raum 44.21 --- [Session 3-1]({{ site.baseurl }}/barcamp-1/session-3-1)  
 Mehrsprachige Metadaten (im OERhub) 
 * 13:30-14:30 --- Raum 44.22 --- [Session 3-2]({{ site.baseurl }}/barcamp-1/session-3-2)  
 Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren? 
