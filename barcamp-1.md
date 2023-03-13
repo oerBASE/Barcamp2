@@ -32,21 +32,21 @@ Information über die am Barcamp vertretenen Plattformen, mit denen OER derzeit 
 ### Sessionplan & Doku: 
 ![OER-Infrastruktur-Barcamp-Sessionplan]({{ site.baseurl }}/assets/images/sessionlist.jpg)
 
-* 11:00-12:00 --- Raum 44.21 - [Session 1-1](/barcamp-1/session-1-1)   
+* 11:00-12:00 --- Raum 44.21 - [Session 1-1]({{ site.baseurl }}/barcamp-1/session-1-1)   
 Externe Ressourcen in Repositorien (Opencast)
-* 11:00-12:00 --- Raum 44.22 - [Session 1-2](/barcamp-1/session-1-2) 
+* 11:00-12:00 --- Raum 44.22 - [Session 1-2]({{ site.baseurl }}/barcamp-1/session-1-2) 
 OER Produktion
-* 12:00-13:00 --- Raum 44.21 - [Session 2-1](/barcamp-1/session-2-1)  
+* 12:00-13:00 --- Raum 44.21 - [Session 2-1]({{ site.baseurl }}/barcamp-1/session-2-1)  
 Technische Umsetzung von Repositorien, Software im Vergleich
-* 12:00-13:00 --- Raum 44.22 - [Session 2-2](/barcamp-1/session-2-2)  
+* 12:00-13:00 --- Raum 44.22 - [Session 2-2]({{ site.baseurl }}/barcamp-1/session-2-2)  
 Modulare Gestaltung von Lernmaterial 
-* 13:30-14:30 --- Raum 44.21 --- [Session 3-1](/barcamp-1/session-3-1)  
+* 13:30-14:30 --- Raum 44.21 --- [Session 3-1]{{ site.baseurl }}(/barcamp-1/session-3-1)  
 Mehrsprachige Metadaten (im OERhub) 
-* 13:30-14:30 --- Raum 44.22 --- [Session 3-2](/barcamp-1/session-3-2)  
+* 13:30-14:30 --- Raum 44.22 --- [Session 3-2]({{ site.baseurl }}/barcamp-1/session-3-2)  
 Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren? 
-* 14:30-15:30 --- Raum 44.21 --- [Session 4-1](/barcamp-1/session-4-1)  
+* 14:30-15:30 --- Raum 44.21 --- [Session 4-1]({{ site.baseurl }}/barcamp-1/session-4-1)  
 Persistent IDs und Kontrollierte Vocabularies, #metadatalove
-* 14:30-15:30 --- Raum 44.22 --- [Session 4-2](/barcamp-1/session-4-2)  
+* 14:30-15:30 --- Raum 44.22 --- [Session 4-2]({{ site.baseurl }}/barcamp-1/session-4-2)  
 Nutzungsbedingungen #rechtundordnung 
 
 ### Und weiter? 
