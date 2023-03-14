@@ -7,14 +7,15 @@ where: "[Palais Strudlhof](https://www.strudlhof.at/de/) in Wien"
 ---
 
 ### Veranstaltungsinfo
+
 Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp]({{ site.baseurl }}{% link barcamp-1.md%}) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
 
-* Was gibt es Neues in der OER-Infrastrukturlandschaft?
-* Welche Einsichten und Ergebnisse kann man aus den Erfahrungen der letzten Jahre ableiten?
-* Welche Strategien und Tendenzen zeichnen sich für die Zukunft der OER-Infrastruktur an den Hochschulen ab?
-* Welche neuen Formate und Technologien werden in Zukunft bei der Erstellung und Nutzung von OER eine Rolle spielennd wie können diese in der bestehenden technischen und organisatorischen Infrastruktur abgebildet werden?  
-* Welche Strategien bzgl OER Infrastruktur verfolgen die anderen DACH-Länder und die Europäische Union?
-* Was wollen wir als OER-Infrastruktur-Community als nächstes tun?
+* Was gibt es __Neues__ in der OER-Infrastrukturlandschaft?
+* Welche __Einsichten und Ergebnisse__ kann man aus den Erfahrungen der letzten Jahre ableiten?
+* Welche __Strategien und Tendenzen__ zeichnen sich für die Zukunft der OER-Infrastruktur an den Hochschulen ab?
+* Welche neuen __Formate und Technologien__ werden in Zukunft bei der Erstellung und Nutzung von OER eine Rolle spielennd wie können diese in der bestehenden technischen und organisatorischen Infrastruktur abgebildet werden?  
+* Welche Strategien bzgl OER Infrastruktur verfolgen die __anderen DACH-Länder und die Europäische Union__?
+* Was wollen wir als OER-Infrastruktur-Community __als nächstes tun__?
 
 ### Ziel der Veranstaltung
 Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegenseitig Einblick in aktuelle Infrastrukturprojekte ermöglichen und gemeinsam Fragen und Visionen diskutieren, die die technische und organisatorische Bereitstellung von OER betreffen. 
@@ -22,7 +23,7 @@ Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegense
 ### Zielgruppe
 Das Barcamp richtet sich an alle Entickler:innen, Admins und Manager:innen von OER-Repositorien ebens wie mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
 
-### OER-Infrastruktur? 
+### OER-Infrastruktur?
 unter OER-förderlicher Infrastruktur werden hier die technischen und organisatorischen Rahmenbedingungen verstanden, die für die Erstellung, Verbreitung und Nutzung von Open Educational Resources (OER) notwendig sind. Eine solche Infrastruktur umfasst eine Vielzahl von Faktoren, wie zum Beispiel:
 
 * Technische Standards und Plattformen, die die Erstellung, Verwaltung und Verbreitung von OER erleichtern.
@@ -41,7 +42,6 @@ Das OER-Infrastruktur Barcamp bietet Platz, um alle diese Aspekte zu diskutieren
 * Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange, wie sie dauert oder bis eine neue Session beginnt.   
 
 ### Zeitplan
-
 9:30-10:00 Eintrudeln, Coffee&High Fives<br>
 10:00-11:00 Begrüßung, Kurzvorstellungen, Sessionplanung<br>
 11:00-11:45 Sessions #1<br>
@@ -56,9 +56,10 @@ Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für
 [oer@uni-graz.at](mailto:oer@uni-graz.at)
 
 ### Veranstalter
+Projekt Open Education Austria
 
-Projekt Open Education Austria     
 Arbeitspaket 1: "Nationalen Metadatenaggregator für OER aufbauen" 
+
 Arbeitspaket 2 "Lokale Repositorien aufbauen und weiterenwickeln" 
 
 
