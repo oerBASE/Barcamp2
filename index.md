@@ -10,7 +10,7 @@ where: "[Palais Strudlhof](https://www.strudlhof.at/de/) in Wien"
 
 Im Juli des Vorjahres fand an der Universität Graz das [erste Barcamp]({{ site.baseurl }}{% link barcamp-1.md%}) zur Infrastruktur für Open Educational Resources (OER) in Österreich statt. Fast 30 Teilgeber:innen diskutierten technische, inhaltliche und organisatorische Fragestellungen rund um die Bereitstellung von OER. Die verschiedenen Impulse möchten wir im Rahmen eines Follow-up-Barcamps aufgreifen und uns diesmal folgenden Fragestellungen zur OER-Infrastruktur-Thematik widmen:
 
-* Was gibt es __Neues__ in der OER-Infrastrukturlandschaft?
+* Was gibt es **Neues** in der OER-Infrastrukturlandschaft?
 * Welche __Einsichten und Ergebnisse__ kann man aus den Erfahrungen der letzten Jahre ableiten?
 * Welche __Strategien und Tendenzen__ zeichnen sich für die Zukunft der OER-Infrastruktur an den Hochschulen ab?
 * Welche neuen __Formate und Technologien__ werden in Zukunft bei der Erstellung und Nutzung von OER eine Rolle spielennd wie können diese in der bestehenden technischen und organisatorischen Infrastruktur abgebildet werden?  
