@@ -82,3 +82,9 @@ Team nationaler Aggregator:
 
 ### Und weiter?  
 Für weitere Informationen (zB wenn die geplante OER Repo Knowledgebase veröffentlicht wird oder eine weitere Veranstaltung geplant ist) besteht eine [OERinfra-Mailingliste](mailto:oer@uibk.ac.at). Bei Interesse bitte um Kontaktaufnahme. 
+
+### Veranstaltungshinweis
+Das Forum Neue Medien in der Lehre Austria (fnma) und das Bundesministerium für Bildung, Wissenschaft und Forschung laden am Folgetag (17. Mai) zur Veranstaltung "Open Educational Resources an österreichischen Hochschulen: Status quo und Ausblick" ein.  
+Weitere Informationen, Programm und Anmeldelink finden sich auf der [Webseite von fnma](https://fnma.at/veranstaltungen/fnma-veranstaltungen/open-educational-resources-an-oesterreichischen-hochschulen-status-quo-und-ausblick)!
+
+
